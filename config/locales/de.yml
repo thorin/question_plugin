@@ -1,17 +1,32 @@
 de:
-  field_question_assign_to: Frage zuweisen an
-  field_question_assigned_to: Frage ist gestellt an
-  field_question_asked_by: Frage wurde gestellt durch
-  field_formatted_questions: Fragen
-  text_question: Frage
-  text_question_answered: Frage beantwortet
-  text_answer: Antwort
-  text_anyone: Irgendwer
-  text_question_for: Frage f&uuml;r
-  text_question_for_anyone: Frage f&uuml;r irgendjemanden
-  text_questions_for_me: Fragen f&uuml;r mich
-  text_question_asked: Frage gestellt
+  field_question_assign_to: "Frage zuweisen an"
+  field_question_assigned_to: "Frage ist gestellt an"
+  field_question_asked_by: "Frage wurde gestellt durch"
+  field_formatted_questions: "Fragen"
+  text_question: "Frage"
+  text_question_answered: "Frage beantwortet"
+  text_answer: "Antwort"
+  text_anyone: "Jeden"
+  text_question_for: "Frage für"
+  text_question_for_anyone: "Frage für jeden"
+  text_questions_for_me: "Fragen für mich"
+  text_question_asked: "Frage gestellt"
   text_question_remove: "<<Frage entfernen>>"
   question_text_asked_by: "gefragt von"
   question_text_assigned_to: "Zugewiesen an"
   question_text_created_on: "Erstellt am"
+  question_text_ratio_questions_answered: "{{ratio}} beantwortete Fragen"
+  field_journal: "Journal"
+  text_questions_asked_by_me: "meine gestellten Fragen"
+  question_reminder_subject: "%{count} offene Frage(n)"
+  questions_asked_by_me: "Meine gestellten Fragen"
+  questions_for_me: "Fragen für mich"
+  field_system_name: "Redmine"
+  question_reminder_body: "%{count} offene und dir zugewiesen(e) Frage(n):"
+  label_question_plugin_only_members: Frage zuweisen an 
+  text_question_all: Jeder
+  text_question_project_member: nur Mitglieder
+  label_question_plugin_close_settings: When add comment close
+  text_question_close_all: alle offenen Fragen
+  text_question_close_selected: selektierte Fragen
+  field_question_to_answer: Frage beantworten
